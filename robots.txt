@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://momedyno.github.io/sitemap.html.gz
+Sitemap: https://momedyno.github.io/app/sitemap.html.gz
+Sitemap: https://momedyno.github.io/assets/sitemap.html.gz
+Sitemap: https://momedyno.github.io/css/sitemap.html.gz
+Sitemap: https://momedyno.github.io/includes/sitemap.html.gz
+Sitemap: https://momedyno.github.io/item/sitemap.html.gz
+Sitemap: https://momedyno.github.io/src/sitemap.html.gz
